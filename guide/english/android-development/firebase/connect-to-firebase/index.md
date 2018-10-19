@@ -34,7 +34,7 @@ If you wish to connect to firebase manually, detailed instructions are available
 <br>
 Having connected your Android Studio project to Firebase, you can either 
 1. click on a product in the firebase assistant and get taken to the Google docs where you will be told how to proceed
-2. go to desired product in **Project Overview** in the Console and click on **Get Started** 
+2. go to desired product in **_Project Overview_** in the Console and click on **_Get Started_** 
 3. go to the [Firebase docs](https://www.firebase.com/docs/android/quickstart.html) to see how to setup individual products in your project
 
 Reading a combination of all three will enable you to setup the product, which includes adding suitable dependencies to your build.gradle file.
